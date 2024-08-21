@@ -25,6 +25,27 @@ class SubscriptionModel{
       description: 'Basic Plan for beginners',
       Icon: 'assets/icons/basic.png',
     ),
+    const SubscriptionModel(
+      title: 'Basic',
+      price: 9.99,
+      duration: 'Per Month',
+      description: 'Basic Plan for beginners',
+      Icon: 'assets/icons/basic.png',
+    ),
+    const SubscriptionModel(
+      title: 'Basic',
+      price: 9.99,
+      duration: 'Per Month',
+      description: 'Basic Plan for beginners',
+      Icon: 'assets/icons/basic.png',
+    ),
+    const SubscriptionModel(
+      title: 'Basic',
+      price: 9.99,
+      duration: 'Per Month',
+      description: 'Basic Plan for beginners',
+      Icon: 'assets/icons/basic.png',
+    ),
   ];   
 
 }
